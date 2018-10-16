@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassengerProducer", "PassengerProducer\PassengerProducer.csproj", "{BD95172C-95A5-448D-9B15-9F19C76C0228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{016A82B4-F135-40F9-9570-D498F9D058A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorController", "ElevatorController\ElevatorController.csproj", "{E73A1F55-A452-440F-BD6E-4B2CC0432D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD95172C-95A5-448D-9B15-9F19C76C0228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD95172C-95A5-448D-9B15-9F19C76C0228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD95172C-95A5-448D-9B15-9F19C76C0228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD95172C-95A5-448D-9B15-9F19C76C0228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016A82B4-F135-40F9-9570-D498F9D058A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016A82B4-F135-40F9-9570-D498F9D058A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016A82B4-F135-40F9-9570-D498F9D058A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016A82B4-F135-40F9-9570-D498F9D058A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73A1F55-A452-440F-BD6E-4B2CC0432D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73A1F55-A452-440F-BD6E-4B2CC0432D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73A1F55-A452-440F-BD6E-4B2CC0432D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73A1F55-A452-440F-BD6E-4B2CC0432D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
